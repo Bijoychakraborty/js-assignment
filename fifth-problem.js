@@ -1,3 +1,4 @@
+// practise for getting the absolute value//
 // fifth problem//
 
 function gemsToDiamond(gems1, gems2, gems3) {

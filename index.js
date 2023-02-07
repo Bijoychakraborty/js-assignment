@@ -1,5 +1,7 @@
+// 1.First Problem 
+//
 // get the final result of mathmatics term///
-// 1.First problem//
+
 
 function mindGame(number) {
     let multiNumber = number * 3;

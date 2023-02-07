@@ -1,3 +1,6 @@
+// practise for final result///
+
+
 function findingBadData(array) {
     let badData = [];
     for (let i = 0; i < array.length; i++) {
